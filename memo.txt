@@ -2,3 +2,20 @@ git 버전확인
 git -- version
 
 프로젝트 디렉토리에 로컬저장소생성
+git init
+
+git 버전관리할 파일선택 : steag에 올림
+git add test.py
+
+버전만들기
+git commit -m "test.py를 커밋"
+
+로그확인
+git log
+
+로컬저장소에서 git hub 원격저장소 주소를등록
+git remote add origin https://github.com/HyunjunIT/test.git
+
+생성한 커밋들을 github에 전송
+
+git push -u origin master
