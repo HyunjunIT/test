@@ -19,3 +19,8 @@ git remote add origin https://github.com/HyunjunIT/test.git
 생성한 커밋들을 github에 전송
 
 git push -u origin master
+
+Fork
+하나의 저장소를 다른 계정으로 복사
+git 명령어가 아니고 (gitgub의 기능)
+다른사람의 github 계정의 저장소에서 fork를 눌러 내 계정 저장소로 복사
