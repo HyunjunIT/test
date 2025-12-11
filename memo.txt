@@ -23,8 +23,12 @@ git push -u origin master
 Fork
 하나의 저장소를 다른 계정으로 복사
 git 명령어가 아니고 (gitgub의 기능)
+<<<<<<< HEAD
 다른사람의 github 계정의 저장소에서 fork를 눌러 내 계정 저장소로 복사
 git 버전확인
 git -- version
 
 프로젝트 디렉토리에 로컬저장소생성
+=======
+다른사람의 github 계정의 저장소에서 fork를 눌러 내 계정 저장소로 복사
+>>>>>>> 87944b1cf8413ad9aac1955b95ffab2ec6c27031
